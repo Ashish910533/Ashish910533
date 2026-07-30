@@ -67,13 +67,13 @@ Goal        : Transform raw datasets into clear, actionable business insights
 
 | 🗂️ Project | 🛠️ Tools | 📌 Impact | 🔗 |
 |---|---|---|---|
-| 📊 **Sales Performance Dashboard** | Power BI, DAX, Excel | 10K+ records • 60% reporting effort saved | [View](https://github.com/ashish-da) |
-| 👥 **HR Analytics Dashboard** | Power BI, DAX, Excel | 2K+ employee records • Attrition tracking | [View](https://github.com/ashish-da) |
-| 🎭 **Face Recognition Attendance** | Python, OpenCV, Tkinter | 50+ users • 80% processing time saved | [View](https://github.com/ashish-da/face-recognition-project) |
-| 🗃️ **Contact Management System** | C, GTK+ | 1000+ records • CRUD operations | [View](https://github.com/ashish-da/Contact-management-system) |
+| 📊 **Super Store Sales Dashboard** | Power BI, DAX, Power Query, Excel | End-to-End BI Project • 4 Interactive Dashboards • Business Insights | [View](https://github.com/ashish-da/Super-Store-Sales-Dashboard) |
+| ⚡ **EV Sales Dashboard (2020–2026)** | Power BI, DAX, Excel | Global EV Market Analysis • KPI Dashboard • Interactive Reports | [View](https://github.com/ashish-da/EV-Sales-Dashboard-2020-2026-) |
+| 🚚 **Nassau Candy Shipping Analytics** | Python, Pandas, Power BI, Jupyter | Shipping Performance Analysis • Route Optimization • Delay Insights | [View](https://github.com/ashish-da/Intern_project-Nassau_Candy_Shipping_Analytics) |
+| 🛒 **Amazon Sales Dashboard** | Excel, Power Query, Pivot Tables | Sales Performance Dashboard • KPI Tracking • Interactive Analysis | [View](https://github.com/ashish-da/Amazon-Sales-Excel-Dashboard) |
+| 🏥 **Hospital Emergency Dashboard** | Excel, Power Query, Pivot Tables | Patient Flow Analysis • Emergency KPIs • Operational Insights | [View](https://github.com/ashish-da/Hospital-Emergency-Excel-Dashboard) |
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
