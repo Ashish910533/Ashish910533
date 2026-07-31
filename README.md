@@ -23,7 +23,7 @@ Name        : Ashish Rawat
 Role        : Entry-Level Data Analyst
 Location    : Dehradun, Uttarakhand, India 📍
 Education   : MCA – AI & Data Science @ Graphic Era Hill University
-Experience  : 1 Year @ Concentrix — Customer Analytics & KPI Reporting
+Experience  : 1 Year @ Concentrix — Customer service executive 
 Core Skills : Power BI | SQL | Python | Excel
 Strengths   : Dashboard Development | Reporting Automation | Data Cleaning
 Availability: Immediate Joiner ✅ | Willing to Relocate ✈️
